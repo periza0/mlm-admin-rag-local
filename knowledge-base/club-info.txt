@@ -1,0 +1,112 @@
+# MOHAN LAL MEMORIAL SPORTS CLUB (MLM)
+## CUSTOMER KNOWLEDGE BASE
+
+### 1. ABOUT THE CLUB
+
+Mohan Lal Memorial Sports Club (MLM) offers badminton facilities, coaching, fitness support, physiotherapy support, accommodation for outstation players, a sports equipment shop, and a juice bar/canteen.
+
+The club has four badminton courts.
+
+### 2. BADMINTON COURTS AND FACILITIES
+
+MLM Sports Club has four premium synthetic badminton courts.
+
+The court setup has two layers:
+- **Wooden subflooring by Jaipur:** Installed beneath the playing surface to provide extra cushioning and help reduce impact while playing.
+- **Synthetic court surface by Transformer:** Installed above the wooden subflooring and used as the playing surface.
+
+The club also provides strength and conditioning support, physiotherapy support, and sports science-based warm-up, cool-down, and recovery practices.
+
+### 3. MEMBERSHIP WITHOUT COACHING
+
+Membership is for players who want to use the badminton facilities without a coach.
+
+Available membership durations:
+- Monthly
+- 3 months
+- 6 months
+- Annual
+
+These plans are suitable for players who prefer to practise and play independently.
+
+Membership prices and terms are not listed in this knowledge base. Customers should contact the club to confirm current rates and conditions.
+
+Membership does not include coaching.
+
+### 4. BADMINTON COACHING
+
+Coaching is available for beginners to advanced players.
+
+Training focuses on:
+- Technical badminton skills.
+- Match strategy.
+- Player development.
+- Regular performance and fitness assessments.
+
+Coaching fees depend on the player's existing skill and knowledge level.
+
+Customers should contact the club for coaching fees, schedules, and programme details.
+
+### 5. HOURLY COURT BOOKING
+
+Players can enquire about booking a badminton court by the hour.
+
+Customers can book online through The District app or contact the club directly.
+
+Court availability, booking charges, and available time slots may change. Customers should check the booking platform or contact the club for current information.
+
+A chatbot response does not confirm a reservation.
+
+### 6. SPORTS EQUIPMENT SHOP
+
+MLM Sports Club has its own sports equipment shop.
+
+The main product categories include:
+- Badminton rackets.
+- Shuttlecocks.
+- Gym equipment and gear.
+- Sports clothing.
+
+Customers can contact the shop to enquire about product details, prices, and availability.
+
+#### Preordering Products
+
+If a product is not readily available, customers can enquire about preordering it.
+
+A preorder is not confirmed until the shop confirms it directly.
+
+#### Price Matching
+
+The shop offers price matching.
+
+If a customer finds the same product at a lower price online, they can contact the shop to enquire about matching the price.
+
+Customers should share the product details and online price. The club will confirm whether the product and price qualify.
+
+The chatbot must not guarantee a price match or invent eligibility conditions.
+
+### 7. JUICE BAR AND CANTEEN
+
+The club has a juice bar and canteen where players and visitors can get refreshments.
+
+Menu items, prices, and operating hours are not specified in this knowledge base. Customers should contact the club for these details.
+
+### 8. ACCOMMODATION
+
+Residential accommodation is available for outstation players.
+
+Both short-term and long-term stay options are offered.
+
+Customers should contact the club to confirm accommodation availability, facilities, duration, and charges.
+
+### 9. CUSTOMER QUESTION HANDLING
+
+When answering questions about MLM Sports Club:
+
+- Give a direct, helpful answer in simple English.
+- Use only information supported by this knowledge base or approved club data.
+- Do not invent prices, schedules, product availability, membership terms, or booking slots.
+- If a customer asks for information that is not available, explain that it needs confirmation from the club.
+- Do not claim that a booking, preorder, or price match has been confirmed.
+- For phone numbers, booking links, and the club's location, use the fixed information stored in the backend rather than generating these details.
+- If a question is unrelated to MLM Sports Club, politely explain that the assistant specialises in club information.
